@@ -5,7 +5,7 @@ This repository hosts the complete dataset and supplemental files used to conduc
 
 1. "Enhancing Mental Health Predictions: A Gradient Boosted Model for Sri Lankan Camp Refugees"  
    DOI: https://doi.org/10.3390/socsci13050255
-2. "A Conceptual Model of Refugee Family Dynamics: A Study with Sri Lankan Tamils"
+2. "A Conceptual Model of Refugee Family Dynamics: A Study with Sri Lankan Tamils"  
    DOI: https://doi.org/10.3390/ijerph22020169
 =================================
 
