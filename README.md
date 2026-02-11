@@ -10,10 +10,15 @@ This repository hosts the complete dataset and supplemental files used to conduc
 
 📂 Repository Contents
 
-i. AdultSLMigrantData.csv: Complete de-identified quantitative dataset from the Phase 1 survey of adult Sri Lankan Tamil refugees, used in the primary published analysis.
+- **`AdultSLMigrantData.csv`**  
+  Complete de-identified quantitative dataset from the Phase 1 survey of adult Sri Lankan Tamil refugees, used in the primary published analysis.
 
-ii. ParentingRawData_Questionnaire.doc: Raw item-level responses from the LISA parenting questionnaire collected from all participants.
+- **`ParentingRawData_Questionnaire.doc`**  
+  Raw item-level responses from the LISA parenting questionnaire collected from all participants.
 
-iii. Proverbs.doc: Collection of commonly used proverbs within the Sri Lankan Tamil refugee community, included to provide cultural and qualitative context.
+- **`Proverbs.doc`**  
+  Collection of commonly used proverbs within the Sri Lankan Tamil refugee community, included to provide cultural and qualitative context.
 
-iv. LICENSE: Licensing terms governing use and redistribution of the data.
+- **`LICENSE`**  
+  Licensing terms governing use and redistribution of the data.
+
